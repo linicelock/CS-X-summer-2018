@@ -5,3 +5,5 @@
 # Week 1
 ## 學習歷程
 使用datacamp R語言完成導言
+
+[hw1.html](https://linicelock.github.io/CS-X-summer-2018/week1/hw1.html)
